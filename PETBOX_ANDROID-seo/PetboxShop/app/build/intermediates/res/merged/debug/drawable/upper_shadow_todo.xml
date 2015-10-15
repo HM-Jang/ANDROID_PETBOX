@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="@android:color/transparent"
+        android:endColor="#ffe6e6e6"
+        android:angle="270">
+    </gradient>
+</shape><!-- From: file:/C:/workspace_seo/PETBOX_ANDROID-master%20(1)/PETBOX_ANDROID-master/PetboxShop/app/src/main/res/drawable/upper_shadow_todo.xml -->

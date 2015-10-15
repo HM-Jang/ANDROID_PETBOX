@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-c1db6afb6f345cd1e0614914d549a0ee22b9fdb1.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-1652cb8d88f30875e2b286d643810b7adb760e9a.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-817962222bb027dc87cf16fa81ba93c31992e08f.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-c2907ae054c13759f3fc63cafa45679facd758e6.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-03fa3eb9341a46666303e87b2fb216e2282a1644.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\gcm-3c9fa03bb6637856b3ab36e5cff3e2c61f141bc9.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-fcc036c5fb28a74958e54530eb2ed0aaaba01a9f.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-ba3ad2350cf94fa8e268db45bf8c1148b6375c5a.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-de5a13a850f3908f80ba9aaeb9d4c56f503ae1ed.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-ae81906b9c33b8c1217f1a00aea47b58f4ca137a.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-24bc2c7e6598ce1a1c139d9478c33e53da465a6f.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-fba2d6fcf2f50d15411964625b8f3821d75926b3.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e7f82397d8109a74aac2253628b4f81465b36550.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-75ea9944090b16004091297c20df88c9e97c76e8.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-b053f3faed265e9fc794f85eb3c0f5feca0ea047.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-4e1213805062e8e5c587892eee55f99f06453019.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-b34231b721a94f701a3b13243df9f0a3ab33bf6d.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\libs\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1053ad4d2eee819af7d1b446dd9f23891f79a56f">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-44e762a48f17371556f3b5199dfbf075f68bac41.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-e3e1320dc80ce0cbcdb0539a7a93d430e9ae4540.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-f1fd5f70c5793be9352fab420833dc6baa5d4da7.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-aabd71f8fcd1d48f3930fdc664813c2e2595688f.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-724c7348844aee99f223a7041acb37a24f3fb9b1.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-92d60c8d741846562f761de2aa9196209f8d4b21.jar" />
+    </item>
+    <item
+        jar="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\workspace_seo\PETBOX_ANDROID-master (1)\PETBOX_ANDROID-master\PetboxShop\app\build\intermediates\pre-dexed\debug\classes-a497f8f530f5296e2e55eeeec605c8b50988b7e1.jar" />
+    </item>
+
+</items>
